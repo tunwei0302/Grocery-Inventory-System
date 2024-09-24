@@ -1,0 +1,17 @@
+I0001,Apple,25,Fruit,5,20.0
+I0002,Banana,30,Fruit,20,10.0
+I0003,Orange,20,Fruit,20,5.0
+I0004,Cabbage,10,Vegetable,10,5.0
+I0005,Cucumber,25,Vegetable,15,10.0
+I0006,Carrot,15,Vegetable,20,5.0
+I0007,Chicken,40,Meat,10,30.0
+I0008,Beef,35,Meat,15,20.0
+I0009,Pork,25,Meat,20,10.0
+I0010,Milk,50,Dairy,10,40.0
+I0011,Cheese,30,Dairy,15,15.0
+I0012,Yogurt,20,Dairy,20,5.0
+I0013,Rice,60,Grains,10,50.0
+I0014,Bread,40,Grains,15,25.0
+I0015,Pasta,35,Grains,20,15.0
+I0016,Sprite,20,Drinks,10,3.0
+I0017,Cola,2,Drinks,10,3.0
